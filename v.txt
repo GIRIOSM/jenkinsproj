@@ -15,3 +15,6 @@
   Hence, it results in producing more reliable and robust systems
 3.Removes bottlenecks from the CI pipeline. It results in increased deployment frequency and decreased number of failed deployments. 
  Both of them are important DevOps KPIs
+
+
+ the end
