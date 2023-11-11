@@ -1,4 +1,4 @@
-8) Why do we need DevOps?
+1) Why do we need DevOps?
 
 1.Increase deployment frequency
 2.Lessen lead time between fixes
@@ -6,3 +6,12 @@
 4.In case of new release crashing, have a faster mean time to recovery
 5.DevOps helps in fulfilling all these requirements and thus, achieving seamless software delivery. Full-fledged organizations like Amazon
 6.Etsy, and Google have adopted DevOps methodology resulting in achieving performance levels that were previously uncharted.
+
+2) what are the major benefits of implementing DevOps automation?
+
+   
+1.Removal of the possibility of human error from the CD equation (Core benefit)
+2.As tasks become more predictable and repeatable, it is easy to identify and correct when something goes wrong.
+  Hence, it results in producing more reliable and robust systems
+3.Removes bottlenecks from the CI pipeline. It results in increased deployment frequency and decreased number of failed deployments. 
+ Both of them are important DevOps KPIs
