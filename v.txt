@@ -1,0 +1,8 @@
+8) Why do we need DevOps?
+
+1.Increase deployment frequency
+2.Lessen lead time between fixes
+3.Lower failure rate of new releases
+4.In case of new release crashing, have a faster mean time to recovery
+5.DevOps helps in fulfilling all these requirements and thus, achieving seamless software delivery. Full-fledged organizations like Amazon
+6.Etsy, and Google have adopted DevOps methodology resulting in achieving performance levels that were previously uncharted.
